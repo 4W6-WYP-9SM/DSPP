@@ -20,4 +20,6 @@ Please visit the second repository for more information. [DSPP Portfolio](https:
 
 ![histogram](/images/histogram.png)
 
+## Governance
+
 [Link to GDPR](https://gdpr-info.eu/)
