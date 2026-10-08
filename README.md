@@ -18,7 +18,7 @@
 
 ## My Projects
 
-![Fraud Detection]([https://cdn.eweek.com/ac487f5955284e24ee5e02e0dce592b3.png](https://miro.medium.com/1*9LjCJPuRo52sPNxkvTX_WA.jpeg))
+![Fraud Detection](https://miro.medium.com/1*9LjCJPuRo52sPNxkvTX_WA.jpeg)
 
 ### [Fraud Detection](https://github.com/4W6-WYP-9SM/DSPP-Portfolio) 
 
@@ -26,7 +26,7 @@
 
 ### Crime Statistics
 
-![Financial Insights](https://cdn.eweek.com/ac487f5955284e24ee5e02e0dce592b3.png)
+![Financial Insights](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRL3nOvj3k3uYbHZkrEeNBdi8wONzguecyJPj2mHGA7ZkG9GnibuBRZq3O&s=10)
 
 ### Financial Insights
 
