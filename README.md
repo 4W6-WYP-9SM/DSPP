@@ -18,7 +18,7 @@
 
 ## My Projects
 
-![histogram](/images/histogram.png)
+![Fraud Detection]([https://cdn.eweek.com/ac487f5955284e24ee5e02e0dce592b3.png])
 
 ### [Fraud Detection](https://github.com/4W6-WYP-9SM/DSPP-Portfolio) 
 
