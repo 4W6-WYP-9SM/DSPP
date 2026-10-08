@@ -22,14 +22,12 @@
 
 ### [Fraud Detection](https://github.com/4W6-WYP-9SM/DSPP-Portfolio) 
 
-![Crime Statistics](https://cdn.eweek.com/ac487f5955284e24ee5e02e0dce592b3.png)
-
-### Crime Statistics
-
 ![Financial Insights](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRL3nOvj3k3uYbHZkrEeNBdi8wONzguecyJPj2mHGA7ZkG9GnibuBRZq3O&s=10)
 
 ### Financial Insights
 
 ## Governance
 
-[Link to GDPR](https://gdpr-info.eu/)
+![Data Governance](https://iehad.com/wp-content/uploads/2025/06/i-3.webp)
+
+![GDPR](https://gdpr-info.eu/)
