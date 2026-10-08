@@ -1,8 +1,10 @@
 # Data Science Portfolio
 
+######Welcome to the Data Science Portfolio. 
+
 ![Data Science](https://cdn.eweek.com/ac487f5955284e24ee5e02e0dce592b3.png)
 
-Welcome to the Data Science Portfolio. Please visit the second repository for more information. [DSPP Portfolio](https://github.com/4W6-WYP-9SM/DSPP-Portfolio) 
+Please visit the second repository for more information. [DSPP Portfolio](https://github.com/4W6-WYP-9SM/DSPP-Portfolio) 
 
 ## My Skills
 
