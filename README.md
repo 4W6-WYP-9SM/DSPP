@@ -1,4 +1,6 @@
-# Data Science Portfolio - [DSPP Portfolio](https://github.com/4W6-WYP-9SM/DSPP-Portfolio) 
+# Data Science Portfolio
+
+Welcome to the Data Science Portfolio. Please visit the second repository for more information. [DSPP Portfolio](https://github.com/4W6-WYP-9SM/DSPP-Portfolio) 
 
 ## My Skills
 
